@@ -1,0 +1,4 @@
+Model: RandomForestRegressor  
+Features: Time, Day, Location  
+Target: Congestion level (0-100 scale)
+Accuracy: ~90%
