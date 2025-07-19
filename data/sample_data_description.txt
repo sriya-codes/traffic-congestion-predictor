@@ -1,0 +1,4 @@
+Sample traffic dataset with:
+- Time stamps
+- GPS coordinates
+- Congestion labels
