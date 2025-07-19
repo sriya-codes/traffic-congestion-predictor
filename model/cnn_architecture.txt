@@ -1,5 +1,0 @@
-CNN Model:
-- Input layer (128x128 images)
-- 2 Convolutional + MaxPooling layers
-- Flatten + Dense + Dropout
-- Output: Softmax (multi-class)
